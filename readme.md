@@ -14,17 +14,17 @@
 
 20팀 중 공동 4등 - 아차상
 
-<img src="readme.assets/award.png" alt="award" style="zoom:50%;" />
+<img src="readme.assets/award-9298611.png" alt="award" style="zoom:50%;" />
 
 
 
 ## 🫧 Preview
 
-<img src="readme.assets/soonsak_1.gif" alt="soonsak_1" style="zoom:50%;" />
+![soonsak_1](readme.assets/soonsak_1-9298645.gif)
 
-![soonsak_2](readme.assets/soonsak_2.gif)
+![soonsak_2](readme.assets/soonsak_2-9298645.gif)
 
-![soonsak_3](readme.assets/soonsak_3.gif)
+![soonsak_3](readme.assets/soonsak_3-9298645.gif)
 
 
 
