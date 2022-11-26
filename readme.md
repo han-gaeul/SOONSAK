@@ -28,6 +28,14 @@
 
 
 
+## 📈 purpose
+
+1. `Django` / `HTML` / `CSS` / `Javascript`을 이용해 `국내 과자`, `해외 과자`, `수제 과자`를 구매하고 리뷰를 작성할 수 있는 웹 페이지를 구현
+2. 일반 사용자와 관리자를 구분하여 사용할 수 있는 기능을 분리함
+3. 실제로 결제할 수 있도록 결제 플랫폼 구현
+
+
+
 ## 🫧 Contributors
 
 <a href="https://github.com/han-gaeul/SOONSAK/graphs/contributors">
@@ -84,4 +92,6 @@
 		2. merge conflict 발생한 부분을 수정
   </div>
 </details>
+
+
 
