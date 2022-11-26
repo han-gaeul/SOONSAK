@@ -72,6 +72,16 @@
 		2. py [manage.py](http://manage.py) migrate
   </div>
 </details>
-
-
+<details>
+  <summary>Merge conflict</summary>
+  <div markdown="1">
+    <br>❌ 에러 사항<br>
+    같은 파일을 동시에 작업하고 push 과정에서 오류 발생<br><br>
+  </div>
+  <div markdown="1"> 
+    💡 해결 방법<br>
+    1. 새로 clone을 받고 작업<br>
+		2. merge conflict 발생한 부분을 수정
+  </div>
+</details>
 
