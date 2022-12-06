@@ -26,7 +26,7 @@
 
 - 로그인
 
-<img src="../../../SOONSAK/221109-login.html.gif" alt="221109-login.html" style="zoom:50%;" />
+<img src="readme.assets/221109-login.html-0333576.gif" alt="221109-login.html" style="zoom:50%;" />
 
 - 프로필 화면
 
