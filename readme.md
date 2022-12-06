@@ -20,11 +20,29 @@
 
 ## 🫧 Preview
 
-![soonsak_1](readme.assets/soonsak_1.gif)
+- 메인 화면
 
-![soonsak_2](readme.assets/soonsak_2.gif)
+<img src="readme.assets/221109-index.html.gif" alt="221109-index.html" style="zoom:50%;" />
 
-![soonsak_3](readme.assets/soonsak_3.gif)
+- 로그인
+
+<img src="../../../SOONSAK/221109-login.html.gif" alt="221109-login.html" style="zoom:50%;" />
+
+- 프로필 화면
+
+<img src="readme.assets/221109-accounts-detail.html.gif" alt="221109-accounts-detail.html" style="zoom:50%;" />
+
+- 찜 목록
+
+<img src="readme.assets/221109-accounts-likelist.html.gif" alt="221109-accounts-likelist.html" style="zoom:50%;" />
+
+- 상품 상세 화면
+
+<img src="readme.assets/221109-snacks-detail.html-reviews-detail.html.gif" alt="221109-snacks-detail.html-reviews-detail.html" style="zoom:50%;" />
+
+- 주문
+
+<img src="readme.assets/221109-orders-create.html.gif" alt="221109-orders-create.html" style="zoom:50%;" />
 
 
 
